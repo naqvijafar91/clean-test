@@ -1,7 +1,7 @@
 # Excel Generator
 
 Create an app which takes:
-1. A XlSX template file
+1. A XLSX template file
 2. A XLSX data file which contains records in each row. (Firt row of this file will have col names)
 3. A mapping.json file which stores mapping between each coloumn in the XLSX Data File to its corresponding cell    number in template file. 
    
