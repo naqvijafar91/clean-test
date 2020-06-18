@@ -1,4 +1,4 @@
-# Csv Generator
+# Excel Generator
 
 Create an app which takes:
 1. A XlSX template file
