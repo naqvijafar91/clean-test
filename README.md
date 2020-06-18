@@ -7,7 +7,7 @@ Create an app which takes:
    
 Working:
 
-Generate n XLSX files from the temmplate file for n rows in the data file. For example, if data file has 5 rows, then 5 csv
+Generate n XLSX files from the temmplate file for n rows in the data file. For example, if data file has 5 rows, then 5 excel
 files needs to be generated.
 
 Consider the coloumn names to case insensitive, ie. Name = name.
